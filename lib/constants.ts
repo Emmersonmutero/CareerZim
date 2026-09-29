@@ -1,0 +1,2 @@
+export const ZW_LOCATIONS = ['Harare','Bulawayo','Mutare','Gweru','Masvingo','Chitungwiza','Victoria Falls','Kwekwe','Nationwide','Remote'];
+export const CATEGORIES = ['IT','Software Development','Engineering','Finance','Accounting','Sales','Marketing','Administration','Human Resources','Healthcare','Education','Government','NGOs','Telecommunications','Banking','Retail','Manufacturing','Graduate Trainee','Internship'];
